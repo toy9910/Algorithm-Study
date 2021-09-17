@@ -5,6 +5,7 @@ using namespace std;
 bool arr[2000001];	// 해당 시간에 폭죽이 터지는지 확인하는 배열
 vector<int> times;	// 폭죽이 터지는 시간들을 저장하는 벡터
 
+
 int main() {
 	ios::sync_with_stdio(0);
 	cin.tie(0);
